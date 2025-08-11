@@ -1,4 +1,4 @@
-# SegFormer: Efficient and All-Purpose Transformer for Semantic Segmentation
+# SegFormer
 
 SegFormer는 2021년 NVIDIA가 발표한 **Vision Transformer(ViT) 기반 의미론적 분할(Semantic Segmentation) 모델**입니다.
 
